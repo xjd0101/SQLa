@@ -1,0 +1,3 @@
+TRUNCATE TABLE test_results;
+COMMIT
+# empty a table
