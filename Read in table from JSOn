@@ -1,0 +1,10 @@
+INSERT INTO test
+VALUES
+('dd', 0, '2022-04-01', 10.00, 'A', TRUE);
+('dd', 0, '2022-04-01', 10.00, 'A', TRUE);
+('dd', 0, '2022-04-01', 10.00, 'A', TRUE);
+('dd', 0, '2022-04-01', 10.00, 'A', TRUE);
+('dd', 0, '2022-04-01', 10.00, 'A', TRUE);
+#insert the column to table
+
+SELECT * FROM test_results;
