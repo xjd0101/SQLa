@@ -1,0 +1,3 @@
+COPY table_name FROM '/path/.csv'
+DELIMITER ' ';
+#upload csv file from computer
